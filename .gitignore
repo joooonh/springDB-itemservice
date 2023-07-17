@@ -18,6 +18,7 @@ bin/
 !**/src/test/**/bin/
 
 ### IntelliJ IDEA ###
+src/main/generated/
 .idea
 *.iws
 *.iml
